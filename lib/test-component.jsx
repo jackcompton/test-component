@@ -6,6 +6,6 @@ require("./test-component.scss");
 
 module.exports = React.createClass({
   render: function() {
-    return <div className="test-component"></div>;
+    return <div className="test-component">Hrlloe Eoilf!</div>;
   }
 });
